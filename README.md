@@ -8,6 +8,7 @@ being it's still a basic program I feel could get some decent use.
 
 USAGE:
 to use the calculator feed arguments with numbers and the operations you want done to the first number. 
+
 EXAMPLE: 
 "1 + 2 x 3"
 OPERATORS:
